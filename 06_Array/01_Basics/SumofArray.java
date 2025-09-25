@@ -1,4 +1,5 @@
-
+//Problem: Print sum of arrays
+// Date: 25-Sep-2025
 import java.util.Scanner;
 public class SumofArray {
     public static void main(String args[]){
