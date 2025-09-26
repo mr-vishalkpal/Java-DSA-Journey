@@ -1,7 +1,7 @@
 // Java program to find the third largest element in an array.
 // Solution: using three traversal
 
-public class ThirdLargest_Expected {
+public class ThirdLargest_Better {
 
     static int ThirdLargest(int arr[]){
         int n = arr.length;
