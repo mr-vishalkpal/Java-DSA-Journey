@@ -1,4 +1,5 @@
-public class ReverseArray {
+package Problem_02_ReverseArray;
+public class ReverseArray_Brute {
 
     public static void reverse(int numbers[]){
         int start = 0, end = numbers.length - 1;

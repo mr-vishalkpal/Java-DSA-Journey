@@ -1,4 +1,4 @@
-public class SubArray {
+public class SubArray_Brute {
 
     public static void Sub(int numbers[]){
         int ts = 0;

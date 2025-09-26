@@ -1,4 +1,4 @@
-public class PairsArray {
+public class PairsArray_Brute {
 
     public static void pairs(int numbers[]){
         int tp = 0;
