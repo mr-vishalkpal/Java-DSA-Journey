@@ -38,7 +38,7 @@ public class SecondLargest_Brute {
 
             // Find second largest distinct
             for (int i = size - 2; i >= 0; i--) {
-                if (numbers[i] != numbers[size - 1]) {
+                if (numbers[i] != numbers[i + 1]) {
                     System.out.println("Second largest element is: " + numbers[i]);
                     return;
                 }
