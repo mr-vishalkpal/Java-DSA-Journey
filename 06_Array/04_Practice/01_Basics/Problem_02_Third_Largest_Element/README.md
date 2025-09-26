@@ -1,6 +1,5 @@
 # Problem: Third Largest Element in an Array of Distinct Elements
 
-📌 **Last Updated:** 23 Jul, 2025  
 
 ## Problem Statement  
 Given an array of `n` integers, the task is to find the **third largest element**.  
