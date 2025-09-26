@@ -1,6 +1,6 @@
-# 🚀 Second Largest Element in an Array
+#  Second Largest Element in an Array
 
-## 📌 Problem Statement
+##  Problem Statement
 Given an array of positive integers `arr[]` of size `n`, the task is to find the **second largest distinct element** in the array.  
 
 👉 If the second largest element does not exist, return `-1`.
