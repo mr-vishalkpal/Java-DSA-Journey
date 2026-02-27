@@ -103,3 +103,4 @@ Optimal solution for interviews (no extra space).
 
 ## 📌 Notes
 - Always handle cases where `d > n` using:
+d = d % n
