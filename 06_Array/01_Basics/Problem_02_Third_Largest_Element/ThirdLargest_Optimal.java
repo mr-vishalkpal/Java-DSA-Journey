@@ -1,7 +1,7 @@
 // Problem: // Java program to find the third largest element in an array
 // Solution: Using Three variable
 
-public class ThirdLargest_Expected{
+public class ThirdLargest_Optimal{
 
     static int ThirdLargest(int arr[]){
 

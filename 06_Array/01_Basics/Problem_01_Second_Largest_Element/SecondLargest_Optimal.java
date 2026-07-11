@@ -1,7 +1,7 @@
 // Problem: Java program to find the second largest element in the array
 // using one traversal
 
-public class SecondLargest_Expected {
+public class SecondLargest_Optimal {
 
     static int SecondLargest(int arr[]){
         int largest = -1, SecondLargest = -1;

@@ -1,7 +1,6 @@
-// Problem: Given an array of positive integers arr[] of size n, 
-// the task is to find second largest distinct element in the array.
-// Solution: Brute force approach
-// Date: 26-Sep-2025
+// Problem: Second Largest Element in an Array
+// Link: https://www.geeksforgeeks.org/dsa/find-second-largest-element-array/ problem-link-here
+// Approach: Optimal - One Pass Search, O(n) time, O(1) space
 
 import java.util.Scanner;
 
