@@ -120,3 +120,11 @@ Java-DSA-Journey/
 │
 └── README.md
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
