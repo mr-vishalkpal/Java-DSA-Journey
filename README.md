@@ -132,6 +132,7 @@ Java-DSA-Journey/
 | ------- |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
