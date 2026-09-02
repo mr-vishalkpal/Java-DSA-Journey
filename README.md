@@ -142,6 +142,7 @@ Java-DSA-Journey/
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -155,6 +156,7 @@ Java-DSA-Journey/
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
