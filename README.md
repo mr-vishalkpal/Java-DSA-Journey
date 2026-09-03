@@ -132,6 +132,7 @@ Java-DSA-Journey/
 | ------- |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -145,6 +146,7 @@ Java-DSA-Journey/
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
