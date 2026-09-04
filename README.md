@@ -130,6 +130,7 @@ Java-DSA-Journey/
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ Java-DSA-Journey/
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
@@ -177,4 +179,8 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
