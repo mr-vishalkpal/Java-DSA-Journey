@@ -132,6 +132,7 @@ Java-DSA-Journey/
 | ------- |
 | [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
@@ -159,6 +161,7 @@ Java-DSA-Journey/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -183,4 +186,12 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
