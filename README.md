@@ -134,6 +134,7 @@ Java-DSA-Journey/
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
@@ -158,6 +159,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
@@ -174,6 +176,7 @@ Java-DSA-Journey/
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
@@ -200,5 +203,6 @@ Java-DSA-Journey/
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
