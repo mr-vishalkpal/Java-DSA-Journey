@@ -133,6 +133,7 @@ Java-DSA-Journey/
 | [0011-container-with-most-water](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0075-sort-colors) |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ Java-DSA-Journey/
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -172,6 +174,7 @@ Java-DSA-Journey/
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -208,4 +211,20 @@ Java-DSA-Journey/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
