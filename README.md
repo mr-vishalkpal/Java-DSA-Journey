@@ -138,6 +138,7 @@ Java-DSA-Journey/
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -188,6 +189,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
