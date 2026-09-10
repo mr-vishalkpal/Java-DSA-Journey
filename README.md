@@ -140,6 +140,7 @@ Java-DSA-Journey/
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -169,6 +170,7 @@ Java-DSA-Journey/
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +193,7 @@ Java-DSA-Journey/
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
@@ -219,6 +222,7 @@ Java-DSA-Journey/
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
