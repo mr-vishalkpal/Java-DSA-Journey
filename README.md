@@ -142,6 +142,7 @@ Java-DSA-Journey/
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1572-matrix-diagonal-sum) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
