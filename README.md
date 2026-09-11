@@ -138,6 +138,7 @@ Java-DSA-Journey/
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -151,6 +152,7 @@ Java-DSA-Journey/
 | [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0525-contiguous-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -222,6 +224,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
