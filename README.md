@@ -150,6 +150,7 @@ Java-DSA-Journey/
 |  |
 | ------- |
 | [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0525-contiguous-array) |
@@ -185,6 +186,7 @@ Java-DSA-Journey/
 | [0097-interleaving-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mr-vishalkpal/Java-DSA-Journey/tree/master/1832-check-if-the-sentence-is-pangram) |
